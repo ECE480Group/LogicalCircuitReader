@@ -9,6 +9,5 @@ def main():
 
     infile.
 
-    #no you SUCKA
 
     infile.close() # Close file
